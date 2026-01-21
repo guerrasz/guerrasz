@@ -1,4 +1,4 @@
- ## 👋 Hi! I'm Lucas Guerra, a Software Engineer.
+ ## 👋 Hi! I'm Lucas Guerra, a Software Engineer and SRE.
  
 - 🌱 Currently looking at topics related to Linux, DSA and DevOps;
 - 💞️ ADS 2024 graduate at FIAP;
