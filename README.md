@@ -1,8 +1,8 @@
- ## 👋 Hi! I'm Lucas Guerra, a Software Engineer and SRE.
+ ## 👋 Hi! I'm Lucas Guerra, a Software Engineering Specialist and SRE.
  
 - 🌱 Currently looking at topics related to Linux, DSA and DevOps;
 - 💞️ ADS 2024 graduate at FIAP;
-- 📚 Sofware Engineering at USP, MBA;
+- 📚 Sofware Engineering Specialist at USP, MBA;
 - 📍 Site Reliability Engineer at WSO2;
 </br>
   <div align="center">
