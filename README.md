@@ -9,7 +9,7 @@
   <a href="https://github.com/guerrasz">
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
   </br> -->
-  <img height="200em" src="https://github-readme-stats-delta-ruby-85.vercel.app/api/top-langs/?username=guerrasz&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-dotfiles,nestjs-compree-pt2,SOLID-intro,Front-End,python-django-and-fastapi,Matrizes,formas-de-ordenacao,algorithms-and-data-structures,codewars,UserLogin-Java-API,Java-API,Java-CRUD,JavaSprint2,CalcularIntervalosDeTempo&hide=html,css,javascript,solidity,kotlin,ruby,lua,makefile,swift,dart,sql,dockerfile&custom_title=My%20Favorite%20Languages!&size_weight=0.5&count_weight=0.5">
+  <img height="200em" src="https://github-readme-stats-delta-ruby-85.vercel.app/api/top-langs/?username=guerrasz&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-dotfiles,nestjs-compree-pt2,SOLID-intro,Front-End,python-django-and-fastapi,Matrizes,formas-de-ordenacao,algorithms-and-data-structures,codewars,UserLogin-Java-API,Java-API,Java-CRUD,JavaSprint2,CalcularIntervalosDeTempo,go-rest-api&hide=html,css,javascript,solidity,kotlin,ruby,lua,makefile,swift,dart,sql,dockerfile&custom_title=My%20Favorite%20Languages!&size_weight=0.5&count_weight=0.5">
 </div>
  
  ##
