@@ -1,11 +1,11 @@
 ## Hi, I'm Lucas Guerra 👋
 
-**Site Reliability Engineer at [WSO2](https://wso2.com)** · São Paulo, Brazil
+**Site Reliability Engineer at Choreo Labs** · São Paulo, Brazil
 
 I keep production platforms running on Kubernetes: deploying, upgrading and troubleshooting customer environments, automating repetitive work away, and digging until I understand *why* something broke, not just how to make it stop.
 
-- 🔧 **Now:** SRE on WSO2's cloud platform ([Choreo](https://wso2.com/choreo/)). Kubernetes, Helm, Terraform, incident response and change management
-- 🔍 **Learning:** Kubernetes internals, Linux, and systems programming with Go, Rust and Zig
+- 🔧 **Now:** SRE in Managed Services and Cloud Platforms at Choreo Labs (formerly WSO2). Kubernetes, Helm and Terraform across AWS, Azure and GCP, plus incident response and change management
+- 🔍 **Exploring:** Kubernetes internals, Linux, and systems programming with Go, Rust and Zig
 - 🎓 **Education:** MBA in Software Engineering, USP/ESALQ · Systems Analysis and Development, FIAP (2024)
 
 ### 🛠️ Tech stack
@@ -17,6 +17,8 @@ I keep production platforms running on Kubernetes: deploying, upgrading and trou
 ![Terraform](https://img.shields.io/badge/terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Puppet](https://img.shields.io/badge/puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
