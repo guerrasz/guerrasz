@@ -1,44 +1,47 @@
- ## 👋 Hi! I'm Lucas Guerra, a Software Engineering Specialist and SRE.
- 
-- 🌱 Currently looking at topics related to Kubernetes and How things actually work;
-- 💞️ ADS 2024 graduate at FIAP;
-- 📚 Sofware Engineering Specialist at USP, MBA;
-- 📍 Site Reliability Engineer at WSO2;
-</br>
-  <div align="center">
-  <a href="https://github.com/guerrasz">
- <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasGuerraS&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
-  </br> -->
-  <img height="200em" src="https://github-readme-stats-delta-ruby-85.vercel.app/api/top-langs/?username=guerrasz&layout=compact&langs_count=8&theme=dark&exclude_repo=github-readme-stats,my-dotfiles,algorithms-and-data-structures&hide=html,css,javascript,solidity,kotlin,ruby,lua,makefile,swift,dart,sql,dockerfile&custom_title=My%20Favorite%20Languages!&size_weight=0.5&count_weight=0.5">
-</div>
- 
- ##
- 
- ### My tech stack:
- 
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-            
-  ##
-  
-<div>
-  <a href = "mailto:lucasgasardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-guerra-de-azevedo-sardo-05b792226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  
-   
+## Hi, I'm Lucas Guerra 👋
+
+**Site Reliability Engineer at [WSO2](https://wso2.com)** · São Paulo, Brazil
+
+I keep production platforms running on Kubernetes: deploying, upgrading and troubleshooting customer environments, automating repetitive work away, and digging until I understand *why* something broke, not just how to make it stop.
+
+- 🔧 **Now:** SRE on WSO2's cloud platform ([Choreo](https://wso2.com/choreo/)). Kubernetes, Helm, Terraform, incident response and change management
+- 🔍 **Learning:** Kubernetes internals, Linux, and systems programming with Go, Rust and Zig
+- 🎓 **Education:** MBA in Software Engineering, USP/ESALQ · Systems Analysis and Development, FIAP (2024)
+
+### 🛠️ Tech stack
+
+**Platform & infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Puppet](https://img.shields.io/badge/puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Languages**
+
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📂 Worth a look
+
+- [linux-study](https://github.com/guerrasz/linux-study): notes and scripts on bash, permissions and how Linux works underneath
+- [go-study](https://github.com/guerrasz/go-study) · [rust-study](https://github.com/guerrasz/rust-study) · [zig-study](https://github.com/guerrasz/zig-study): working through systems languages
+- [my-dotfiles](https://github.com/guerrasz/my-dotfiles): my terminal and day-to-day workflow setup
+
+### 📫 Get in touch
+
+<a href="mailto:lucasgasardo@gmail.com"><img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/guerrasz/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
