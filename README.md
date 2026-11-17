@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Guerra 👋
 
-**Site Reliability Engineer at Choreo Labs** · São Paulo, Brazil
+**Site Reliability Engineer at [Choreo Labs](https://choreolabs.com/)** · São Paulo, Brazil
 
 I keep production platforms running on Kubernetes: deploying, upgrading and troubleshooting customer environments, automating repetitive work away, and digging until I understand *why* something broke, not just how to make it stop.
 
