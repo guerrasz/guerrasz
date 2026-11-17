@@ -39,6 +39,13 @@ I keep production platforms running on Kubernetes: deploying, upgrading and trou
 
 ### 📂 Worth a look
 
+**Design patterns learning platform** (MBA capstone, USP/ESALQ): a web app that teaches the Factory and Adapter patterns through step-by-step lessons, quizzes and an in-browser Java editor that runs your code.
+
+- [projeto-tcc-next](https://github.com/guerrasz/projeto-tcc-next): Next.js 15, React 19, TypeScript and Tailwind front end, with a Monaco editor that executes code through the Piston API
+- [design-patterns-factory-backend](https://github.com/guerrasz/design-patterns-factory-backend): Spring Boot, JPA and PostgreSQL API for student accounts, course progress and certificates, run with Docker Compose
+
+**Study and tooling**
+
 - [linux-study](https://github.com/guerrasz/linux-study): notes and scripts on bash, permissions and how Linux works underneath
 - [go-study](https://github.com/guerrasz/go-study) · [rust-study](https://github.com/guerrasz/rust-study) · [zig-study](https://github.com/guerrasz/zig-study): working through systems languages
 - [my-dotfiles](https://github.com/guerrasz/my-dotfiles): my terminal and day-to-day workflow setup
